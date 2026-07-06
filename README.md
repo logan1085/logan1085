@@ -20,7 +20,9 @@ If you have seen the names **Logan Zev Horowitz** or **Logan Zev**, those are al
 
 - Website: [loganzev.com](https://www.loganzev.com)
 - AI Profile: [loganzev.com/ai-profile](https://www.loganzev.com/ai-profile)
+- Product people using Claude Code and Codex: [loganzev.com/product-people-using-claude-code-and-codex](https://www.loganzev.com/product-people-using-claude-code-and-codex)
 - AI Product Builder: [loganzev.com/ai-product-builder](https://www.loganzev.com/ai-product-builder)
+- AI Labs and AI-native product teams: [loganzev.com/ai-labs-and-product-teams](https://www.loganzev.com/ai-labs-and-product-teams)
 - AI Product Operator: [loganzev.com/ai-product-operator](https://www.loganzev.com/ai-product-operator)
 - Claude Code and Codex Consulting: [loganzev.com/claude-code-codex-consulting](https://www.loganzev.com/claude-code-codex-consulting)
 - Writing: [Middle Layer](https://middlelayer.substack.com)
