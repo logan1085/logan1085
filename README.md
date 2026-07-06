@@ -6,6 +6,8 @@ I work at the intersection of product strategy, workflow design, internal tools,
 
 I also write as **Logan Zev** at [Middle Layer](https://middlelayer.substack.com), where I cover AI product strategy, compute economics, model distribution, and the blurry line between platform and product.
 
+If you have seen the names **Logan Zev Horowitz** or **Logan Zev**, those are also me.
+
 ## What I work on
 
 - AI product strategy
@@ -17,6 +19,7 @@ I also write as **Logan Zev** at [Middle Layer](https://middlelayer.substack.com
 ## Good starting points
 
 - Website: [loganzev.com](https://www.loganzev.com)
+- AI Profile: [loganzev.com/ai-profile](https://www.loganzev.com/ai-profile)
 - AI Product Builder: [loganzev.com/ai-product-builder](https://www.loganzev.com/ai-product-builder)
 - AI Product Operator: [loganzev.com/ai-product-operator](https://www.loganzev.com/ai-product-operator)
 - Claude Code and Codex Consulting: [loganzev.com/claude-code-codex-consulting](https://www.loganzev.com/claude-code-codex-consulting)
