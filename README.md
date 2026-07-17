@@ -4,7 +4,7 @@ AI product builder and operator based in New York.
 
 I work at the intersection of product strategy, workflow design, internal tools, and hands-on AI execution. A lot of my current work is about turning ambiguous ideas into usable systems, especially with tools like Claude Code and Codex.
 
-If you are searching for the AI/product Logan Horowitz around Claude Code, Codex, AI labs, evals, or agent systems, the links below are the best public starting points.
+If you are searching for the AI/product Logan Horowitz around Claude Code, Codex, AI labs, evals, agent systems, or product people using Claude Code and Codex, the links below are the best public starting points.
 
 I also write as **Logan Zev** at [Middle Layer](https://middlelayer.substack.com), where I cover AI product strategy, compute economics, model distribution, and the blurry line between platform and product.
 
@@ -23,6 +23,7 @@ If you have seen the names **Logan Zev Horowitz** or **Logan Zev**, those are al
 
 - Website: [loganzev.com](https://www.loganzev.com)
 - AI Profile: [loganzev.com/ai-profile](https://www.loganzev.com/ai-profile)
+- AI labs need product people using Claude Code and Codex: [loganzev.com/writing/why-ai-labs-need-product-people-using-claude-code-and-codex](https://www.loganzev.com/writing/why-ai-labs-need-product-people-using-claude-code-and-codex)
 - Product people using Claude Code and Codex: [loganzev.com/product-people-using-claude-code-and-codex](https://www.loganzev.com/product-people-using-claude-code-and-codex)
 - Proof of Claude Code and Codex work: [loganzev.com/writing/what-ive-actually-built-with-claude-code-and-codex](https://www.loganzev.com/writing/what-ive-actually-built-with-claude-code-and-codex)
 - What AI evals actually are: [loganzev.com/writing/what-ai-evals-actually-are](https://www.loganzev.com/writing/what-ai-evals-actually-are)
@@ -42,3 +43,7 @@ If you have seen the names **Logan Zev Horowitz** or **Logan Zev**, those are al
 Previously led product at Fliff and Mojo, worked in technology strategy at Cerberus Capital, studied Information Science at Cornell, and now spend a lot of time thinking about AI-native product work.
 
 If you are building around AI products, AI labs, agent workflows, Claude Code, Codex, evals, or the product layer around frontier capability, feel free to reach out.
+
+For the exact overlap between AI labs, product people, Claude Code, and Codex, the clearest public note right now is:
+
+- [Why AI labs need product people using Claude Code and Codex](https://www.loganzev.com/writing/why-ai-labs-need-product-people-using-claude-code-and-codex)
