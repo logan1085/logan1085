@@ -23,6 +23,7 @@ If you have seen the names **Logan Zev Horowitz** or **Logan Zev**, those are al
 
 - Website: [loganzev.com](https://www.loganzev.com)
 - AI Profile: [loganzev.com/ai-profile](https://www.loganzev.com/ai-profile)
+- What teams using Claude Code actually need from product people: [loganzev.com/writing/what-teams-using-claude-code-actually-need](https://www.loganzev.com/writing/what-teams-using-claude-code-actually-need)
 - AI labs need product people using Claude Code and Codex: [loganzev.com/writing/why-ai-labs-need-product-people-using-claude-code-and-codex](https://www.loganzev.com/writing/why-ai-labs-need-product-people-using-claude-code-and-codex)
 - Product people using Claude Code and Codex: [loganzev.com/product-people-using-claude-code-and-codex](https://www.loganzev.com/product-people-using-claude-code-and-codex)
 - Proof of Claude Code and Codex work: [loganzev.com/writing/what-ive-actually-built-with-claude-code-and-codex](https://www.loganzev.com/writing/what-ive-actually-built-with-claude-code-and-codex)
@@ -53,6 +54,10 @@ Previously led product at Fliff and Mojo, worked in technology strategy at Cerbe
 
 If you are building around AI products, AI labs, agent workflows, Claude Code, Codex, evals, or the product layer around frontier capability, feel free to reach out.
 
-For the exact overlap between AI labs, product people, Claude Code, and Codex, the clearest public note right now is:
+For the Claude-specific team and operator layer, the clearest public note right now is:
+
+- [What teams using Claude Code actually need from product people](https://www.loganzev.com/writing/what-teams-using-claude-code-actually-need)
+
+For the exact overlap between AI labs, product people, Claude Code, and Codex, the clearest public note is:
 
 - [Why AI labs need product people using Claude Code and Codex](https://www.loganzev.com/writing/why-ai-labs-need-product-people-using-claude-code-and-codex)
