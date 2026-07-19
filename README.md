@@ -38,6 +38,15 @@ If you have seen the names **Logan Zev Horowitz** or **Logan Zev**, those are al
 - Proof of Building: [loganzev.com/projects](https://www.loganzev.com/projects)
 - Writing: [Middle Layer](https://middlelayer.substack.com)
 
+## Selected public AI/product repos
+
+- [AI Residency](https://github.com/logan1085/ai-residency): research-adjacent notes around AI labs, evals, benchmarks, agent systems, and operator tooling.
+- [MCP Studio](https://github.com/logan1085/MCP-Studio): MCP-powered internal tool demo for AI workflow orchestration and operator-heavy product work.
+- [AI Streaks](https://github.com/logan1085/ai-streaks): AI workflow product for turning generated plans into guided execution and follow-through.
+- [MBA Copilot](https://github.com/logan1085/mba-copilot): RAG-based AI study copilot built with Next.js, FastAPI, Pinecone, and OpenAI.
+- [Voice AI Assistant](https://github.com/logan1085/voice-ai-assistant): conversational voice AI prototype using OpenAI for a browser-based subscription-cancellation game.
+- [Agentic Payments](https://github.com/logan1085/agenticpayments): research product and market map around agentic commerce, payments, identity, wallets, and protocols.
+
 ## Background
 
 Previously led product at Fliff and Mojo, worked in technology strategy at Cerberus Capital, studied Information Science at Cornell, and now spend a lot of time thinking about AI-native product work.
