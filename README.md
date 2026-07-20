@@ -25,6 +25,7 @@ If you have seen the names **Logan Zev Horowitz** or **Logan Zev**, those are al
 
 - Website: [loganzev.com](https://www.loganzev.com)
 - AI Profile: [loganzev.com/ai-profile](https://www.loganzev.com/ai-profile)
+- AI Team Builder: [loganzev.com/projects/ai-team-builder](https://www.loganzev.com/projects/ai-team-builder)
 - AI Workflow Lab: [loganzev.com/projects/ai-workflow-lab](https://www.loganzev.com/projects/ai-workflow-lab)
 - Proof of Building: [loganzev.com/projects](https://www.loganzev.com/projects)
 - What teams using Claude Code actually need from product people: [loganzev.com/writing/what-teams-using-claude-code-actually-need](https://www.loganzev.com/writing/what-teams-using-claude-code-actually-need)
@@ -53,6 +54,7 @@ If you have seen the names **Logan Zev Horowitz** or **Logan Zev**, those are al
 
 ## If you are trying to understand the work quickly
 
+- For AI team shape, hiring judgment, and first-hire design, start with [AI Team Builder](https://www.loganzev.com/projects/ai-team-builder).
 - For AI workflow design and agent orchestration, start with [AI Workflow Lab](https://www.loganzev.com/projects/ai-workflow-lab).
 - For the overlap between AI labs, product judgment, Claude Code, and Codex, start with [Why AI labs need product people using Claude Code and Codex](https://www.loganzev.com/writing/why-ai-labs-need-product-people-using-claude-code-and-codex).
 - For the broader fit summary, start with [AI Profile](https://www.loganzev.com/ai-profile).
