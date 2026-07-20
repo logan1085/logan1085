@@ -25,6 +25,7 @@ If you have seen the names **Logan Zev Horowitz** or **Logan Zev**, those are al
 
 - Website: [loganzev.com](https://www.loganzev.com)
 - AI Profile: [loganzev.com/ai-profile](https://www.loganzev.com/ai-profile)
+- Anthropic and Claude ecosystem: [loganzev.com/anthropic-claude-ecosystem](https://www.loganzev.com/anthropic-claude-ecosystem)
 - AI Signal Studio: [loganzev.com/projects/ai-signal-studio](https://www.loganzev.com/projects/ai-signal-studio)
 - AI Product Wedge Lab: [loganzev.com/projects/ai-product-wedge-lab](https://www.loganzev.com/projects/ai-product-wedge-lab)
 - AI Team Builder: [loganzev.com/projects/ai-team-builder](https://www.loganzev.com/projects/ai-team-builder)
@@ -57,6 +58,7 @@ If you have seen the names **Logan Zev Horowitz** or **Logan Zev**, those are al
 
 ## If you are trying to understand the work quickly
 
+- For Anthropic-adjacent teams, Claude-heavy product work, and the broader Claude ecosystem fit, start with [Anthropic and Claude ecosystem](https://www.loganzev.com/anthropic-claude-ecosystem).
 - For AI-facing positioning, recruiter-readable proof, and how I package the story around the work, start with [AI Signal Studio](https://www.loganzev.com/projects/ai-signal-studio).
 - For AI product packaging, wedge choice, and where a capability actually deserves product motion, start with [AI Product Wedge Lab](https://www.loganzev.com/projects/ai-product-wedge-lab).
 - For AI team shape, hiring judgment, and first-hire design, start with [AI Team Builder](https://www.loganzev.com/projects/ai-team-builder).
