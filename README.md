@@ -6,6 +6,8 @@ I work at the intersection of product strategy, workflow design, internal tools,
 
 If you are searching for the AI/product Logan Horowitz around Claude Code, Codex, AI labs, evals, agent systems, or product people using Claude Code and Codex, the links below are the best public starting points.
 
+The best public proof is usually not another abstract positioning page. It is a concrete artifact, workflow tool, or interactive surface that makes the thinking easier to inspect.
+
 I also write as **Logan Zev** at [Middle Layer](https://middlelayer.substack.com), where I cover AI product strategy, compute economics, model distribution, and the blurry line between platform and product.
 
 If you have seen the names **Logan Zev Horowitz** or **Logan Zev**, those are also me.
@@ -23,6 +25,8 @@ If you have seen the names **Logan Zev Horowitz** or **Logan Zev**, those are al
 
 - Website: [loganzev.com](https://www.loganzev.com)
 - AI Profile: [loganzev.com/ai-profile](https://www.loganzev.com/ai-profile)
+- AI Workflow Lab: [loganzev.com/projects/ai-workflow-lab](https://www.loganzev.com/projects/ai-workflow-lab)
+- Proof of Building: [loganzev.com/projects](https://www.loganzev.com/projects)
 - What teams using Claude Code actually need from product people: [loganzev.com/writing/what-teams-using-claude-code-actually-need](https://www.loganzev.com/writing/what-teams-using-claude-code-actually-need)
 - AI labs need product people using Claude Code and Codex: [loganzev.com/writing/why-ai-labs-need-product-people-using-claude-code-and-codex](https://www.loganzev.com/writing/why-ai-labs-need-product-people-using-claude-code-and-codex)
 - Product people using Claude Code and Codex: [loganzev.com/product-people-using-claude-code-and-codex](https://www.loganzev.com/product-people-using-claude-code-and-codex)
@@ -36,7 +40,6 @@ If you have seen the names **Logan Zev Horowitz** or **Logan Zev**, those are al
 - AI research interests: [loganzev.com/writing/ai-research-interests-evals-benchmarks](https://www.loganzev.com/writing/ai-research-interests-evals-benchmarks)
 - AI Product Operator: [loganzev.com/ai-product-operator](https://www.loganzev.com/ai-product-operator)
 - Claude Code and Codex Consulting: [loganzev.com/claude-code-codex-consulting](https://www.loganzev.com/claude-code-codex-consulting)
-- Proof of Building: [loganzev.com/projects](https://www.loganzev.com/projects)
 - Writing: [Middle Layer](https://middlelayer.substack.com)
 
 ## Selected public AI/product repos
@@ -47,6 +50,12 @@ If you have seen the names **Logan Zev Horowitz** or **Logan Zev**, those are al
 - [MBA Copilot](https://github.com/logan1085/mba-copilot): RAG-based AI study copilot built with Next.js, FastAPI, Pinecone, and OpenAI.
 - [Voice AI Assistant](https://github.com/logan1085/voice-ai-assistant): conversational voice AI prototype using OpenAI for a browser-based subscription-cancellation game.
 - [Agentic Payments](https://github.com/logan1085/agenticpayments): research product and market map around agentic commerce, payments, identity, wallets, and protocols.
+
+## If you are trying to understand the work quickly
+
+- For AI workflow design and agent orchestration, start with [AI Workflow Lab](https://www.loganzev.com/projects/ai-workflow-lab).
+- For the overlap between AI labs, product judgment, Claude Code, and Codex, start with [Why AI labs need product people using Claude Code and Codex](https://www.loganzev.com/writing/why-ai-labs-need-product-people-using-claude-code-and-codex).
+- For the broader fit summary, start with [AI Profile](https://www.loganzev.com/ai-profile).
 
 ## Background
 
