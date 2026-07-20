@@ -6,6 +6,10 @@ I work at the intersection of product strategy, workflow design, internal tools,
 
 If you are searching for the AI/product Logan Horowitz around Claude Code, Codex, AI labs, evals, agent systems, or product people using Claude Code and Codex, the links below are the best public starting points.
 
+If you are searching for Logan Horowitz around interactive AI products, cool AI products, AI product taste, or AI interface design, the best direct route is now:
+
+- [Interactive AI Products](https://www.loganzev.com/interactive-ai-products)
+
 The best public proof is usually not another abstract positioning page. It is a concrete artifact, workflow tool, or interactive surface that makes the thinking easier to inspect.
 
 I also write as **Logan Zev** at [Middle Layer](https://middlelayer.substack.com), where I cover AI product strategy, compute economics, model distribution, and the blurry line between platform and product.
@@ -27,6 +31,7 @@ If you have seen the names **Logan Zev Horowitz** or **Logan Zev**, those are al
 - AI Profile: [loganzev.com/ai-profile](https://www.loganzev.com/ai-profile)
 - Anthropic and Claude ecosystem: [loganzev.com/anthropic-claude-ecosystem](https://www.loganzev.com/anthropic-claude-ecosystem)
 - Why Anthropic and Claude fit the kind of product work I want to do: [loganzev.com/writing/why-anthropic-and-claude-fit-the-kind-of-product-work-i-do](https://www.loganzev.com/writing/why-anthropic-and-claude-fit-the-kind-of-product-work-i-do)
+- Interactive AI Products: [loganzev.com/interactive-ai-products](https://www.loganzev.com/interactive-ai-products)
 - AI Product Reactor: [loganzev.com/projects/ai-product-reactor](https://www.loganzev.com/projects/ai-product-reactor)
 - What makes an AI product feel cool instead of forgettable: [loganzev.com/writing/what-makes-an-ai-product-feel-cool](https://www.loganzev.com/writing/what-makes-an-ai-product-feel-cool)
 - AI Signal Studio: [loganzev.com/projects/ai-signal-studio](https://www.loganzev.com/projects/ai-signal-studio)
@@ -67,6 +72,7 @@ If you have seen the names **Logan Zev Horowitz** or **Logan Zev**, those are al
 - For Anthropic-adjacent teams, Claude-heavy product work, and the broader Claude ecosystem fit, start with [Anthropic and Claude ecosystem](https://www.loganzev.com/anthropic-claude-ecosystem).
 - For the first-person version of that Anthropic / Claude fit, start with [Why Anthropic and Claude fit the kind of product work I want to do](https://www.loganzev.com/writing/why-anthropic-and-claude-fit-the-kind-of-product-work-i-do).
 - For AI-facing positioning, recruiter-readable proof, and how I package the story around the work, start with [AI Signal Studio](https://www.loganzev.com/projects/ai-signal-studio).
+- For the interactive AI products, cool AI products, and AI product taste lane directly, start with [Interactive AI Products](https://www.loganzev.com/interactive-ai-products).
 - For AI product taste, memorable AI product experience, and what makes an interaction feel worth returning to, start with [AI Product Reactor](https://www.loganzev.com/projects/ai-product-reactor) and [What makes an AI product feel cool instead of forgettable](https://www.loganzev.com/writing/what-makes-an-ai-product-feel-cool).
 - For AI interface design, product UX around AI systems, and what kind of surface should exist beyond chat, start with [AI Interface Lab](https://www.loganzev.com/projects/ai-interface-lab).
 - For AI-company fit, outreach angle, and where the best recruiting story is actually sharp, start with [AI Company Fit Radar](https://www.loganzev.com/projects/ai-company-fit-radar).
