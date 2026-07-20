@@ -27,6 +27,8 @@ If you have seen the names **Logan Zev Horowitz** or **Logan Zev**, those are al
 - AI Profile: [loganzev.com/ai-profile](https://www.loganzev.com/ai-profile)
 - Anthropic and Claude ecosystem: [loganzev.com/anthropic-claude-ecosystem](https://www.loganzev.com/anthropic-claude-ecosystem)
 - Why Anthropic and Claude fit the kind of product work I want to do: [loganzev.com/writing/why-anthropic-and-claude-fit-the-kind-of-product-work-i-do](https://www.loganzev.com/writing/why-anthropic-and-claude-fit-the-kind-of-product-work-i-do)
+- AI Product Reactor: [loganzev.com/projects/ai-product-reactor](https://www.loganzev.com/projects/ai-product-reactor)
+- What makes an AI product feel cool instead of forgettable: [loganzev.com/writing/what-makes-an-ai-product-feel-cool](https://www.loganzev.com/writing/what-makes-an-ai-product-feel-cool)
 - AI Signal Studio: [loganzev.com/projects/ai-signal-studio](https://www.loganzev.com/projects/ai-signal-studio)
 - AI Interface Lab: [loganzev.com/projects/ai-interface-lab](https://www.loganzev.com/projects/ai-interface-lab)
 - AI Company Fit Radar: [loganzev.com/projects/ai-company-fit-radar](https://www.loganzev.com/projects/ai-company-fit-radar)
@@ -65,6 +67,7 @@ If you have seen the names **Logan Zev Horowitz** or **Logan Zev**, those are al
 - For Anthropic-adjacent teams, Claude-heavy product work, and the broader Claude ecosystem fit, start with [Anthropic and Claude ecosystem](https://www.loganzev.com/anthropic-claude-ecosystem).
 - For the first-person version of that Anthropic / Claude fit, start with [Why Anthropic and Claude fit the kind of product work I want to do](https://www.loganzev.com/writing/why-anthropic-and-claude-fit-the-kind-of-product-work-i-do).
 - For AI-facing positioning, recruiter-readable proof, and how I package the story around the work, start with [AI Signal Studio](https://www.loganzev.com/projects/ai-signal-studio).
+- For AI product taste, memorable AI product experience, and what makes an interaction feel worth returning to, start with [AI Product Reactor](https://www.loganzev.com/projects/ai-product-reactor) and [What makes an AI product feel cool instead of forgettable](https://www.loganzev.com/writing/what-makes-an-ai-product-feel-cool).
 - For AI interface design, product UX around AI systems, and what kind of surface should exist beyond chat, start with [AI Interface Lab](https://www.loganzev.com/projects/ai-interface-lab).
 - For AI-company fit, outreach angle, and where the best recruiting story is actually sharp, start with [AI Company Fit Radar](https://www.loganzev.com/projects/ai-company-fit-radar).
 - For AI product packaging, wedge choice, and where a capability actually deserves product motion, start with [AI Product Wedge Lab](https://www.loganzev.com/projects/ai-product-wedge-lab).
